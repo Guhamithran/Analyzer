@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Link Analysis and Deep Contextual QA",
+  "description": "An application that takes a public web link and a complex question, 'scrapes' the content, and uses a sophisticated AI model to provide a detailed, analytical answer based solely on the extracted text.",
+  "requestFramePermissions": []
+}
